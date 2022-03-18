@@ -18,9 +18,9 @@ https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/starchannel_5a5b0f9b_8ca8bc5c07
 #next:-1
 https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/cinemax_22d200f8_b70000db13c7709e34a047e570fcb5947031c85a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTYzMzt9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes & Series",
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="" group-title="Filmes & Series",Space
 #next:-1
-
+https://cdn.esporteone.com/SPACESD/video.m3u8?md5=eUrV00YMMdK22fXOGEMXZg&expires=1647627309
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes & Series",
 #next:-1
