@@ -1,10 +1,11 @@
-#EXTINF:-1 tvg-id="nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98" tvg-name="s:51.158.172.68" tvg-logo="" group-title="Desenho",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
 https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxNjA0NDt9
 
-#EXTINF:-1 tvg-id="disney-bk" tvg-name="Disney Channel" tvg-logo="" group-title="Desenho",Disney Channel
-https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/disneychannel_a9334987_f2a39bd3cf63745752331955199670b33e051529/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxNDU2Mjt9
+#EXTINF:-1 tvg-id="a9334987" tvg-name="Disney Channel" tvg-logo="" group-title="Desenhos",Disney Channel
+https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/disneychannel_a9334987_f2a39bd3cf63745752331955199670b33e051529/1647617749000.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="disneyxd_d094700e_2566f1ada0b3bc43710523dad904d1b3a40415cd" tvg-name="Disney XD" tvg-logo="" group-title="Desenhos",Disney XD
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/disneyxd_d094700e_2566f1ada0b3bc43710523dad904d1b3a40415cd/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxNzU5Nzt9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 
