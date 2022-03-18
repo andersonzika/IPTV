@@ -67,9 +67,9 @@ https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/nickelodeon_bc33ea4e_d5099c2b9
 #next:-1
 https://edge-aws.aovivotv.xyz/hls/s:51.15.40.23/disneychannel_a9334987_f2a39bd3cf63745752331955199670b33e051529/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxODA4Mzt9
 
-#EXTINF:-1 tvg-id="disneyxd_d094700e_2566f1ada0b3bc43710523dad904d1b3a40415cd" tvg-name="Disney XD" tvg-logo="" group-title="Desenhos",Disney XD
+#EXTINF:-1 tvg-id="disneyxd" tvg-name="Disney XD" tvg-logo="" group-title="Desenhos",Disney XD
 #next:-1
-https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/disneyxd_d094700e_2566f1ada0b3bc43710523dad904d1b3a40415cd/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxNzU5Nzt9
+https://m3u9.tk/a/hls1/disneyxd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MjY6NTYgUE0maGFzaF92YWx1ZT1IeURhdnFya0xaMUY0UzV3ckRaZE9BPT0mdmFsaWRtaW51dGVzPTQ4MA==
 
 #EXTINF:-1 tvg-id="tooncast_8effee40" tvg-name="ToonCast" tvg-logo="" group-title="Desenhos",ToonCast
 #next:-1
