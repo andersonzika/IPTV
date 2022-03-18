@@ -8,11 +8,11 @@ https://live.xvideosporn.me/p2p/starchannel/chunks.m3u8?nimblesessionid=471205&w
 
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="" group-title="Filmes & Series",Space
 #next:
-https://m3u9.tk/a/hls1/disneyxd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MjY6NTYgUE0maGFzaF92YWx1ZT1IeURhdnFya0xaMUY0UzV3ckRaZE9BPT0mdmFsaWRtaW51dGVzPTQ4MA==
+
 
 #EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="" group-title="Filmes & Series",TNT
 #next:
-https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/tnt_9109c85a_b6e38aab4ede932bb2d7315a60b912ce2bd286a3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYyMzgwMDt9
+
 
 #EXTINF:-1 tvg-id="cinemax_22d200f8" tvg-name="Cinemax" tvg-logo="" group-title="Filmes & Series",Cinemax
 #next:
@@ -53,9 +53,9 @@ https://m3u9.tk/a/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6NTk6M
 #EXTINF:-1 tvg-id="" tvg-name="Telecine" tvg-logo="" group-title="Filmes & Series",Telecine
 #next:-1
 
-#EXTINF:-1 tvg-id="nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
 #next:-1
-https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxNjA0NDt9
+https://m3u9.ml/a2/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=0VbN7Eqy9QSn4AcKwPt52A&3U1G7qaTxrPbalZnEx=1647653877
 
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" tvg-logo="" group-title="Desenhos",Disney Channel
 #next:-1
