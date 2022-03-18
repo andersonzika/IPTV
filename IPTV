@@ -1,3 +1,13 @@
+
+#EXTINF:-1 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes e Series",Warner Channel
+#next:-1
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/warnerchannel_0a57cb53_3403169e728077e08fbddd552a1f3f2df6388b66/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTE0ODt9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#next:-1
+
+------------------------------------------ DESENHOS --------------------------------------------------------------------------------------------------- 
+
 #EXTINF:-1 tvg-id="nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
 #next:-1
 https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxNjA0NDt9
@@ -22,9 +32,9 @@ https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/cartoonnetwork_511a418e_e99d6
 #next:-1
 https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/boomerang_2659fc51_eb9895a3a54fff5c77dd172ac7d6f2ec91b5cd65/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxODQ4ODt9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="gloob_04f1241e" tvg-name="Gloob" tvg-logo="" group-title="Desenhos",Gloob
 #next:-1
-
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/gloob_04f1241e_aabab686eabb85c999d5d5aa57992bc5e6628dd3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxODY5ODt9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 #next:-1
