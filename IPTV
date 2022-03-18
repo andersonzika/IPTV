@@ -2,17 +2,17 @@
 #next:
 https://live.xvideosporn.me/p2p/warnerchannel/chunks.m3u8?nimblesessionid=471152&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MDI6MTEgUE0maGFzaF92YWx1ZT1QNkJBYUlYdU9lQTdodjNCczRsNll3PT0mdmFsaWRtaW51dGVzPTkw
 
-#EXTINF:-1 tvg-id="starchannel_5a5b0f9b" tvg-name="Fox" tvg-logo="Filmes & Series" group-title="Filmes & Series",Fox
+#EXTINF:-1 tvg-id="starchannel" tvg-name="Star Channel" tvg-logo="Filmes & Series" group-title="Filmes & Series",Star Channel
 #next:
-https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/starchannel_5a5b0f9b_8ca8bc5c07537d3ac9e171edd6b8f5db75324ac0/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTM2NDt9
+https://live.xvideosporn.me/p2p/starchannel/chunks.m3u8?nimblesessionid=471205&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MDQ6NDQgUE0maGFzaF92YWx1ZT1tc0llVk5teStzNkpTb0RNMWtMWUtBPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="" group-title="Filmes & Series",Space
 #next:
-https://m3u9.ml/a2/hls1/space.m3u8?mu3zAQc9HC3GbwJq=t-tgTjs6uVamRsZlCo2_nQ&3U1G7qaTxrPbalZnEx=1647649969
+https://m3u9.ml/a2/hls1/space.m3u8?mu3zAQc9HC3GbwJq=__bz75L0Qx8fUxGypzs9Yw&3U1G7qaTxrPbalZnEx=1647651973
 
-#EXTINF:-1 tvg-id="starchannel_5a5b0f9b" tvg-name="Star Channel" tvg-logo="" group-title="Filmes & Series",Star Channel
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="" group-title="Filmes & Series",TNT
 #next:
-https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/starchannel_5a5b0f9b_8ca8bc5c07537d3ac9e171edd6b8f5db75324ac0/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTU3Mzt9
+https://m3u9.tk/a/hls1/tnt.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MDg6NDggUE0maGFzaF92YWx1ZT1JT3RUOTczTEswbFlLNm5JZnhKR3dnPT0mdmFsaWRtaW51dGVzPTQ4MA==
 
 #EXTINF:-1 tvg-id="cinemax_22d200f8" tvg-name="Cinemax" tvg-logo="" group-title="Filmes & Series",Cinemax
 #next:
