@@ -1,10 +1,33 @@
+------------------------------------------ Filmes & Series ------------------------------------------------------------------------------------------- 
 
-#EXTINF:-1 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes e Series",Warner Channel
+#EXTINF:-1 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes & Series",Warner Channel
 #next:-1
 https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/warnerchannel_0a57cb53_3403169e728077e08fbddd552a1f3f2df6388b66/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTE0ODt9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="starchannel_5a5b0f9b" tvg-name="Fox" tvg-logo="Filmes & Series" group-title="Filmes & Series",Fox
 #next:-1
+https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/starchannel_5a5b0f9b_8ca8bc5c07537d3ac9e171edd6b8f5db75324ac0/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTM2NDt9
+
+#EXTINF:-1 tvg-id="starlife_66435217" tvg-name="Star Life" tvg-logo="" group-title="Filmes & Series",Star Life
+#next:-1
+https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/starlife_66435217_bce9388b700a3a7bdfd497a5e4d74247fc9be79b/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTQ3MTt9
+
+#EXTINF:-1 tvg-id="starchannel_5a5b0f9b" tvg-name="Star Channel" tvg-logo="" group-title="Filmes & Series",Star Channel
+#next:-1
+https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/starchannel_5a5b0f9b_8ca8bc5c07537d3ac9e171edd6b8f5db75324ac0/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTU3Mzt9
+
+#EXTINF:-1 tvg-id="cinemax_22d200f8" tvg-name="Cinemax" tvg-logo="" group-title="Filmes & Series",Cinemax
+#next:-1
+https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/cinemax_22d200f8_b70000db13c7709e34a047e570fcb5947031c85a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTYzMzt9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes & Series",
+#next:-1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes & Series",
+#next:-1
+
+
 
 ------------------------------------------ DESENHOS --------------------------------------------------------------------------------------------------- 
 
