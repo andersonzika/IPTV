@@ -1,5 +1,3 @@
------------------------------------------- Filmes & Series ------------------------------------------------------------------------------------------- 
-
 #EXTINF:-1 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes & Series",Warner Channel
 #next:-1
 https://edge-aws.aovivotv.xyz/hls/s:51.15.104.60/warnerchannel_0a57cb53_3403169e728077e08fbddd552a1f3f2df6388b66/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTE0ODt9
@@ -28,8 +26,6 @@ https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/cinemax_22d200f8_b70000db13c77
 #next:-1
 
 
-
------------------------------------------- DESENHOS --------------------------------------------------------------------------------------------------- 
 
 #EXTINF:-1 tvg-id="nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
 #next:-1
