@@ -8,7 +8,7 @@ https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/starchannel_5a5b0f9b_8ca8bc5c07
 
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="" group-title="Filmes & Series",Space
 #next:
-https://cdn.esporteone.com/SPACEHD/video.m3u8?md5=w1BuTI2NSfQCxwIYHgmOYg&expires=1647627570
+https://m3u9.ml/a2/hls1/space.m3u8?mu3zAQc9HC3GbwJq=t-tgTjs6uVamRsZlCo2_nQ&3U1G7qaTxrPbalZnEx=1647649969
 
 #EXTINF:-1 tvg-id="starchannel_5a5b0f9b" tvg-name="Star Channel" tvg-logo="" group-title="Filmes & Series",Star Channel
 #next:
@@ -22,6 +22,37 @@ https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/cinemax_22d200f8_b70000db13c77
 #next:
 https://live.xvideosporn.me/p2p/tlcpipoca/chunks.m3u8?nimblesessionid=470372&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6Mjk6MTcgUE0maGFzaF92YWx1ZT0weEZLRER3Z0lBd2laNlcrclhPZG5BPT0mdmFsaWRtaW51dGVzPTkw
 
+#EXTINF:-1 tvg-id="470466&wms" tvg-name="Telecine Action" tvg-logo="" group-title="Filmes & Series",Telecine Action
+#next:
+https://live.xvideosporn.me/p2p/tlcaction/chunks.m3u8?nimblesessionid=470466&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6MzQ6NDMgUE0maGFzaF92YWx1ZT13UUtzYzYvNjEzY1A3RmU5SVRDVFVRPT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#next:-1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#next:-1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#next:-1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#next:-1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#next:-1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#next:-1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#next:-1
+
+
+
+
+
+-------------------------------------------------------------- Desenhos -----------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
 #next:-1
