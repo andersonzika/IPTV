@@ -26,31 +26,31 @@ https://live.xvideosporn.me/p2p/tlcpipoca/chunks.m3u8?nimblesessionid=470372&wms
 #next:
 https://live.xvideosporn.me/p2p/tlcaction/chunks.m3u8?nimblesessionid=470466&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6MzQ6NDMgUE0maGFzaF92YWx1ZT13UUtzYzYvNjEzY1A3RmU5SVRDVFVRPT0mdmFsaWRtaW51dGVzPTkw
 
-#EXTINF:-1 tvg-id="telecinetouch_74cbd2c2_5ce981ce9f245312ff36cd1d0f1ea3d4527ea626" tvg-name="Telecine Touch" tvg-logo="" group-title="",Telecine Touch
+#EXTINF:-1 tvg-id="telecinetouch_74cbd2c2_5ce981ce9f245312ff36cd1d0f1ea3d4527ea626" tvg-name="Telecine Touch" tvg-logo="" group-title="Filmes & Series",Telecine Touch
 #next:-1
 https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/telecinetouch_74cbd2c2_5ce981ce9f245312ff36cd1d0f1ea3d4527ea626/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYyMTcwNDt9
 
-#EXTINF:-1 tvg-id="tlcpremium" tvg-name="Telecine Premium" tvg-logo="" group-title="",Telecine Premium
+#EXTINF:-1 tvg-id="tlcpremium" tvg-name="Telecine Premium" tvg-logo="" group-title="Filmes & Series",Telecine Premium
 #next:-1
 https://live.xvideosporn.me/p2p/tlcpremium/chunks.m3u8?nimblesessionid=470648&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6NDI6MzQgUE0maGFzaF92YWx1ZT1SOXlYdHhONWpHYzU2dmRFNnFuT0F3PT0mdmFsaWRtaW51dGVzPTkw
 
-#EXTINF:-1 tvg-id="tlcfun" tvg-name="Telecine Fun" tvg-logo="" group-title="",Telecine Fun
+#EXTINF:-1 tvg-id="tlcfun" tvg-name="Telecine Fun" tvg-logo="" group-title="Filmes & Series",Telecine Fun
 #next:-1
 https://live.xvideosporn.me/p2p/tlcfun/chunks.m3u8?nimblesessionid=470677&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6NDM6MjIgUE0maGFzaF92YWx1ZT1kanRQcVM3MzdwSzNSVDhtcndaUmRRPT0mdmFsaWRtaW51dGVzPTkw
 
-#EXTINF:-1 tvg-id="telecinecult_8d255e1e_abb4b58b4bddff427d1db0163c4ca3dbabf62188" tvg-name="Telecine Cult" tvg-logo="" group-title="",Telecine Cult
+#EXTINF:-1 tvg-id="telecinecult_8d255e1e_abb4b58b4bddff427d1db0163c4ca3dbabf62188" tvg-name="Telecine Cult" tvg-logo="" group-title="Filmes & Series",Telecine Cult
 #next:-1
 https://edge-aws.aovivotv.xyz/hls/s:51.15.52.211/telecinecult_8d255e1e_abb4b58b4bddff427d1db0163c4ca3dbabf62188/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYyMTg4MDt9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes & Series",
 #next:-1
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes & Series",
 #next:-1
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Telecine" tvg-logo="" group-title="",Telecine
+#EXTINF:-1 tvg-id="" tvg-name="Telecine" tvg-logo="" group-title="Filmes & Series",Telecine
 #next:-1
 
 
