@@ -53,9 +53,9 @@ https://m3u9.tk/a/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6NTk6M
 #EXTINF:-1 tvg-id="" tvg-name="Telecine" tvg-logo="" group-title="Filmes & Series",Telecine
 #next:
 
-#EXTINF:-1 tvg-id="nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
+#EXTINF:-1 tvg-id="nicksd" tvg-name="Nickelodeon" tvg-logo="" group-title="Desenhos",Nickelodeon
 #next:
-https://edge-aws.aovivotv.xyz/hls/s:51.15.41.121/nickelodeon_bc33ea4e_d5099c2b9a8ce03f5a9f4230783a2bcc3de66c98/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYyNjQ1Mjt9
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/nicksd/video.m3u8?md5=nuKKDjMHbOHZEWqhtvM8RA&expires=1647663398
 
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" tvg-logo="" group-title="Desenhos",Disney Channel
 #next:
