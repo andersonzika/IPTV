@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes & Series",Warner Channel
 https://live.xvideosporn.me/p2p/warnerchannel/chunks.m3u8?nimblesessionid=471152&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MDI6MTEgUE0maGFzaF92YWx1ZT1QNkJBYUlYdU9lQTdodjNCczRsNll3PT0mdmFsaWRtaW51dGVzPTkw
 
@@ -32,12 +31,7 @@ https://live.xvideosporn.me/p2p/tlcfun/chunks.m3u8?nimblesessionid=470677&wmsAut
 https://edge-aws.aovivotv.xyz/hls/s:51.15.52.211/telecinecult_8d255e1e_abb4b58b4bddff427d1db0163c4ca3dbabf62188/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYyMTg4MDt9
 
 #EXTINF:-1 tvg-id="megapix_480p" tvg-name="MegaPix" tvg-logo="" group-title="Filmes & Series",MegaPix
-https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=483767&wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDE6MTg6MjEgQU0maGFzaF92YWx1ZT16d2JBeTZJdnZreWM5RzFHT3gyZGZRPT0mdmFsaWRtaW51dGVzPTkw
-
-#EXTINF:-1 tvg-id="hls1" tvg-name="FX" tvg-logo="" group-title="Filmes & Series",FX
-https://m3u9.tk/a/hls1/fx.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6NTk6MTQgUE0maGFzaF92YWx1ZT00a2FGcGRtM2svVEcvVnVJeXVYb3RRPT0mdmFsaWRtaW51dGVzPTQ4MA==
-
-#EXTINF:-1 tvg-id="" tvg-name="Telecine" tvg-logo="" group-title="Filmes & Series",Telecine
+https://m3u9.tk/a/hls1/megapix.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDE6MjA6NDkgQU0maGFzaF92YWx1ZT1VcDdlVEF6VlhHZForSm91dzMzclhRPT0mdmFsaWRtaW51dGVzPTQ4MA==
 
 
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" tvg-logo="" group-title="Desenhos",Disney Channel
@@ -63,13 +57,3 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1284550135.m3u8
 
 #EXTINF:-1 tvg-id="contvanime" tvg-name="ConTV Anime" tvg-logo="" group-title="Desenhos",ConTV Anime
 https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
