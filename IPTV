@@ -1,25 +1,24 @@
-#EXTINF:-1 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="https://danmoviesnstuff.files.wordpress.com/2017/07/wblogo.jpg" group-title="Filmes & Series",Warner Channel
+#EXTM3U
+#EXTINF:0 group-title="IPTV TESTE"
+#EXTINF:-1 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes & Series",Warner Channel
 #next:
 https://live.xvideosporn.me/p2p/warnerchannel/chunks.m3u8?nimblesessionid=471152&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MDI6MTEgUE0maGFzaF92YWx1ZT1QNkJBYUlYdU9lQTdodjNCczRsNll3PT0mdmFsaWRtaW51dGVzPTkw
 
-#EXTINF:-1 tvg-id="starchannel" tvg-name="Star Channel" tvg-logo="https://i0.wp.com/telaviva.com.br/wp-content/uploads/2021/02/STARCHANNEL.jpg" group-title="Filmes & Series",Star Channel
+#EXTINF:-1 tvg-id="starchannel" tvg-name="Star Channel" tvg-logo="" group-title="Filmes & Series",Star Channel
 #next:
 https://live.xvideosporn.me/p2p/starchannel/chunks.m3u8?nimblesessionid=471205&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MDQ6NDQgUE0maGFzaF92YWx1ZT1tc0llVk5teStzNkpTb0RNMWtMWUtBPT0mdmFsaWRtaW51dGVzPTkw
 
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="Filmes & Series",Space
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="" group-title="Filmes & Series",Space
 #next:
-#EXTINF:-1 tvg-id="Arcane" tvg-name="Arcane" tvg-logo="" group-title="Filmes & Series" group-title="Arcane",Arcane
 
-
-#EXTINF:-1 tvg-id="mu3zAQc9HC3GbwJq" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes & Series",TNT
+#EXTINF:-1 tvg-id="mu3zAQc9HC3GbwJq" tvg-name="TNT" tvg-logo="" group-title="Filmes & Series",TNT
 #next:
-https://m3u9.ml/a2/hls1/tnt-bk.m3u8?mu3zAQc9HC3GbwJq=EiK5DWbUD4qL0pMIm1uw9w&3U1G7qaTxrPbalZnEx=1647655170
 
-#EXTINF:-1 tvg-id="cinemax_22d200f8" tvg-name="Cinemax" tvg-logo="https://img2.gratispng.com/20180808/skv/kisspng-logo-cinemax-television-channel-image-5b6a9a47204a89.8950189515337129671323.jpg" group-title="Filmes & Series",Cinemax
+#EXTINF:-1 tvg-id="cinemax_22d200f8" tvg-name="Cinemax" tvg-logo="" group-title="Filmes & Series",Cinemax
 #next:
 https://edge-aws.aovivotv.xyz/hls/s:51.158.172.68/cinemax_22d200f8_b70000db13c7709e34a047e570fcb5947031c85a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgyLjE3Ni4zNCI7aToxO3M6MTEzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OS4wLjQ4NDQuNzQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTY0NzYxOTYzMzt9
 
-#EXTINF:-1 tvg-id="470372&wms" tvg-name="Telecine Pipoca" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="Filmes & Series",Telecine Pipoca
+#EXTINF:-1 tvg-id="470372&wms" tvg-name="Telecine Pipoca" tvg-logo="" group-title="Filmes & Series",Telecine Pipoca
 #next:
 https://live.xvideosporn.me/p2p/tlcpipoca/chunks.m3u8?nimblesessionid=470372&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDQ6Mjk6MTcgUE0maGFzaF92YWx1ZT0weEZLRER3Z0lBd2laNlcrclhPZG5BPT0mdmFsaWRtaW51dGVzPTkw
 
