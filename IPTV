@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="IPTV TESTE"
-#EXTINF:-1 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes & Series",Warner Channel
+#EXTINF:0 tvg-id="warnerchannel_0a57cb53" tvg-name="Warner Channel" tvg-logo="" group-title="Filmes & Series",Warner Channel
 #next:
 https://live.xvideosporn.me/p2p/warnerchannel/chunks.m3u8?nimblesessionid=471152&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDU6MDI6MTEgUE0maGFzaF92YWx1ZT1QNkJBYUlYdU9lQTdodjNCczRsNll3PT0mdmFsaWRtaW51dGVzPTkw
 
